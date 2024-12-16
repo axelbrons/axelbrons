@@ -1,6 +1,6 @@
-# Me #
+# Axel Bröns #
 
-Axel Bröns, studying engineering
+Engineering student at ECE Engineering School
 
 
 
