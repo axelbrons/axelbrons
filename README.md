@@ -1,6 +1,6 @@
 # Axel Bröns #
 
-Engineering student at ECE Engineering School
+Engineering student at ECE Engineering School majoring in Data & AI.
 
 
 
