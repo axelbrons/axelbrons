@@ -1,10 +1,10 @@
-# Axel Bröns #
+# Axel Bröns
 
-Engineering student at ECE Engineering School majoring in Data & AI.
+Engineering student based in Paris, passionate about artificial intelligence.
+Currently seeking an internship of **4 months or more starting April 13, 2026**, in the fields of AI, machine learning, or data science.
 
+## Current Projects
 
+- **Academic Project**: Detecting fraudulent code in cryptocurrency-related smart contracts.
 
-<!---
-axelbrons/axelbrons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Personal**: GPT from scratch, sentiment detection using NLP
