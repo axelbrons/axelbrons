@@ -7,4 +7,4 @@ Currently seeking an internship of **4 months or more starting April 13, 2026**,
 
 - **Academic Project**: Detecting fraudulent code in cryptocurrency-related smart contracts.
 
-- **Personal**: GPT from scratch, sentiment detection using NLP
+- **Personal**: Smart Multilingual Assistant with Semantic Search (RAG, NLP)
